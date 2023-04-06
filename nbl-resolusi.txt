@@ -1,3 +1,4 @@
 nbl Resolusi
 - Make learn html 2x minggu
-- ....
+- Make learn Wordpress with LMS
+- MAke learn Wordpress with CMS
